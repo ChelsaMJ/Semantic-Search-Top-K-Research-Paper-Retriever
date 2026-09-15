@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-google-genai
+google-genai
+langgraph
+tavily-python
+python-dotenv
+pydantic
+notebook
+langchain-tavily
+pypdf
