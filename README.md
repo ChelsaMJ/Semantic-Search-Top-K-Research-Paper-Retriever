@@ -1,6 +1,6 @@
-# HON
+# Semantic-Search-Top-K-Research-Paper-Retriever
 
-HON is a command-line semantic search tool for research papers. It extracts paper metadata from PDFs, generates Gemini embeddings, stores them in a FAISS index, and retrieves the most relevant papers for a natural-language query.
+Semantic-Search-Top-K-Research-Paper-Retriever is a command-line semantic search tool for research papers. It extracts paper metadata from PDFs, generates Gemini embeddings, stores them in a FAISS index, and retrieves the most relevant papers for a natural-language query.
 
 ## Requirements
 
